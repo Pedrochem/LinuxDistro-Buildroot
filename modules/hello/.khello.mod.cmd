@@ -1,0 +1,1 @@
+cmd_/home/pedro/linuxdistro/buildroot-2021.02/modules/hello/khello.mod := { echo  /home/pedro/linuxdistro/buildroot-2021.02/modules/hello/khello.o;  echo; } > /home/pedro/linuxdistro/buildroot-2021.02/modules/hello/khello.mod

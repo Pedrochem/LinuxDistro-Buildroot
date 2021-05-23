@@ -1,0 +1,1 @@
+cmd_/home/pedro/linuxdistro/buildroot-2021.02/modules/simple_driver/modules.order := {   echo /home/pedro/linuxdistro/buildroot-2021.02/modules/simple_driver/simple_driver.ko; :; } | awk '!x[$$0]++' - > /home/pedro/linuxdistro/buildroot-2021.02/modules/simple_driver/modules.order

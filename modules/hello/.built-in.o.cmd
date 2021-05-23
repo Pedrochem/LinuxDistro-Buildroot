@@ -1,0 +1,1 @@
+cmd_/home/pedro/linuxdistro/buildroot-2021.02/modules/hello/built-in.o :=  rm -f /home/pedro/linuxdistro/buildroot-2021.02/modules/hello/built-in.o; ar rcSTPD /home/pedro/linuxdistro/buildroot-2021.02/modules/hello/built-in.o
